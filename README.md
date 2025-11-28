@@ -58,6 +58,7 @@ Tools & Platforms
 &nbsp;&nbsp;&nbsp;
 ![](https://img.shields.io/badge/%20-CURSOR-black?style=for-the-badge&labelColor=git)
 <div align = "center">
+  
 ![](https://img.shields.io/badge/%20-PYCHARM-yellow?style=for-the-badge&labelColor=git)
   
 </div>
@@ -75,6 +76,15 @@ Tools & Platforms
 <a href = "https://x.com/exerehaan_"><img src="https://img.shields.io/badge/%20-X-black?style=for-the-badge&labelColor=black&logo=x" alt="Badge"></a>
 
 
+</div>
+
+<div>
+  
+  ```text
+  "Everything negative -- pressure, challenges -- is all an opportunity for me to rise.
+                                                                                      -Kobe Bryant"
+  ```
+   
 </div>
 
 
