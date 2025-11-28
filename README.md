@@ -1,21 +1,64 @@
-## Hi there 👋
-<h1 align="center">Hi 👋, I'm Rehaan Malik</h1>
-<h3 align="center">an engineering student passionate about AI, Data Science, and full-stack development.I’m constantly exploring new technologies to improve my skills. This GitHub is where I document my learning journey, share my projects, and collaborate with others. Always open to feedback, ideas, and interesting conversations! </h3>
+<div align="center">
 
-- 🌱 I’m currently learning **JavaScript** and deep diving into the domain of Web Development..
+# Hey! I'm [Your Name] — I build, break, and rebuild things better.
 
-- 📫 How to reach me **malikrehaan047@gmail.com**
+### Aspiring Full Stack Developer | JavaScript Enthusiast
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/exerehaan_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="exerehaan_" height="30" width="40" /></a><
-<a href="https://linkedin.com/in/rehaan malik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rehaan malik" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/flashgotchill" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="flashgotchill" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/flashgotchill_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="flashgotchill_" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/gcjkm9d62j" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="gcjkm9d62j" height="30" width="40" /></a>
-</p>
+<a href="https://your-portfolio-link.com">
+  <img src="https://img.shields.io/badge/PORTFOLIO-20232a?style=for-the-badge&logo=react&logoColor=61DAFB" alt="Portfolio">
+</a>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
+</div>
 
+---
+
+### 🎯 About Me: Web Development & Design
+
+> Passionate Web Developer building responsive websites that merge modern design with clean code.
+
+I specialize in learning the core technologies of the web. From structuring content with HTML to styling with CSS and adding interactivity with JavaScript, I am transforming my ideas into real-world applications.
+
+---
+
+### ⚡ What I Do: Logic & Frontend Magic
+
+```javascript
+class WebDeveloper {
+  constructor() {
+    this.name = "Your Name";
+    this.role = "Frontend Developer";
+    this.tools = ["VS Code", "Chrome DevTools"];
+    this.hobbies = ["Coding", "Reading", "Gaming"];
+  }
+
+  sayHello() {
+    console.log("Thanks for dropping by! Let's code.");
+  }
+}
+
+const me = new WebDeveloper();
+me.sayHello();
+🛠 Tech Stack
+<div align="center">
+
+Languages
+
+
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/HTML5-E34F26%3Fstyle%3Dfor-the-badge%26logo%3Dhtml5%26logoColor%3Dwhite" /> <img src="https://www.google.com/search?q=https://img.shields.io/badge/CSS3-1572B6%3Fstyle%3Dfor-the-badge%26logo%3Dcss3%26logoColor%3Dwhite" /> <img src="https://www.google.com/url?sa=E&source=gmail&q=https://img.shields.io/badge/JavaScript-323330?style=for-the-badge%26logo=javascript%26logoColor=F7DF1E" />
+
+Tools & Platforms
+
+
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/VS_Code-0078D4%3Fstyle%3Dfor-the-badge%26logo%3Dvisual%2520studio%2520code%26logoColor%3Dwhite" /> <img src="https://www.google.com/search?q=https://img.shields.io/badge/GIT-E44C30%3Fstyle%3Dfor-the-badge%26logo%3Dgit%26logoColor%3Dwhite" /> <img src="https://www.google.com/search?q=https://img.shields.io/badge/GitHub-100000%3Fstyle%3Dfor-the-badge%26logo%3Dgithub%26logoColor%3Dwhite" />
+
+</div>
+
+📫 Let's Connect!
+<div align="center">
+
+<a href="https://linkedin.com/in/yourprofile"> <img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-0077B5%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" /> </a> <a href="mailto:youremail@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a>
+
+"The best way to predict the future is to create it."
+
+</div>
 <!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=exerehaan&show_icons=true&locale=en&layout=compact" alt="exerehaan" /></p> -->
