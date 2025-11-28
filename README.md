@@ -83,7 +83,7 @@ Tools & Platforms
 <div>
   
   ```text
-  "Everything negative -- pressure, challenges -- is all an opportunity for me to rise.
+          "Everything negative -- pressure, challenges -- is all an opportunity for me to rise.
                                                                                       -Kobe Bryant"
   ```
    
