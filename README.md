@@ -4,9 +4,7 @@
 
 ### Aspiring Full Stack Developer | JavaScript Enthusiast
 
-<a href="https://your-portfolio-link.com">
-  <img src="https://img.shields.io/badge/PORTFOLIO-20232a?style=for-the-badge&logo=react&logoColor=61DAFB" alt="Portfolio">
-</a>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Turning+Coffee+into+Code+%E2%98%95)](https://git.io/typing-svg)
 
 </div>
 
@@ -54,8 +52,15 @@ Languages
 
 Tools & Platforms
 
-
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/VS_Code-0078D4%3Fstyle%3Dfor-the-badge%26logo%3Dvisual%2520studio%2520code%26logoColor%3Dwhite" /> <img src="https://www.google.com/search?q=https://img.shields.io/badge/GIT-E44C30%3Fstyle%3Dfor-the-badge%26logo%3Dgit%26logoColor%3Dwhite" /> <img src="https://www.google.com/search?q=https://img.shields.io/badge/GitHub-100000%3Fstyle%3Dfor-the-badge%26logo%3Dgithub%26logoColor%3Dwhite" />
+![](https://img.shields.io/badge/%20-Git-orange?style=for-the-badge&labelColor=git&logo=git&logoColor=white)
+&nbsp;&nbsp;&nbsp;
+![](https://img.shields.io/badge/%20-VSCODE-blue?style=for-the-badge&labelColor=git)
+&nbsp;&nbsp;&nbsp;
+![](https://img.shields.io/badge/%20-CURSOR-black?style=for-the-badge&labelColor=git)
+<div align = "center">
+![](https://img.shields.io/badge/%20-PYCHARM-yellow?style=for-the-badge&labelColor=git)
+  
+</div>
 
 </div>
 
@@ -64,7 +69,9 @@ Tools & Platforms
 <div align="center">
 
 <a href="https://linkedin.com/in/yourprofile"> <img src="https://img.shields.io/badge/%20-linkedin-blue?style=for-the-badge&labelColor=eeda04&logo=linkedin" alt="Badge"></a> 
+&nbsp;&nbsp;&nbsp;
 <a href="mailto:youremail@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a>
+&nbsp;&nbsp;&nbsp;
 <a href = "https://x.com/exerehaan_"><img src="https://img.shields.io/badge/%20-X-black?style=for-the-badge&labelColor=black&logo=x" alt="Badge"></a>
 
 
