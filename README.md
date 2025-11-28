@@ -22,7 +22,7 @@ I specialize in learning the core technologies of the web. From structuring cont
 
 ### ⚡ What I Do: Logic & Frontend Magic
 
-```javascript
+```javascrip
 class WebDeveloper {
   constructor() {
     this.name = "Your Name";
@@ -38,8 +38,10 @@ class WebDeveloper {
 
 const me = new WebDeveloper();
 me.sayHello();
+```
 🛠 Tech Stack
 <div align="center">
+
 
 Languages
 
