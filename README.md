@@ -22,7 +22,7 @@ I specialize in learning the core technologies of the web. From structuring cont
 
 ### ⚡ What I Do: Logic & Frontend Magic
 
-```javascrip
+```javascript
 class WebDeveloper {
   constructor() {
     this.name = "Your Name";
@@ -46,7 +46,9 @@ me.sayHello();
 Languages
 
 
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/HTML5-E34F26%3Fstyle%3Dfor-the-badge%26logo%3Dhtml5%26logoColor%3Dwhite" /> <img src="https://www.google.com/search?q=https://img.shields.io/badge/CSS3-1572B6%3Fstyle%3Dfor-the-badge%26logo%3Dcss3%26logoColor%3Dwhite" /> <img src="https://www.google.com/url?sa=E&source=gmail&q=https://img.shields.io/badge/JavaScript-323330?style=for-the-badge%26logo=javascript%26logoColor=F7DF1E" />
+![](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
+![](https://img.shields.io/badge/C%2B%2B-blue?style=for-the-badge&logo=cplusplus)
+![](https://img.shields.io/badge/%20-python-blue?style=for-the-badge&labelColor=eeda04&logo=python)
 
 Tools & Platforms
 
