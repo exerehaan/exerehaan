@@ -23,10 +23,10 @@ I specialize in learning the core technologies of the web. From structuring cont
 ```javascript
 class WebDeveloper {
   constructor() {
-    this.name = "Your Name";
-    this.role = "Frontend Developer";
+    this.name = "Rehaan Malik";
+    this.role = "Web Developer";
     this.tools = ["VS Code", "Chrome DevTools"];
-    this.hobbies = ["Coding", "Reading", "Gaming"];
+    this.hobbies = ["Fine Art Drawing","Coding", "Reading", "Gaming","Athletics"];
   }
 
   sayHello() {
