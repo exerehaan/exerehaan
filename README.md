@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hey! I'm [Your Name] — I build, break, and rebuild things better.
+# Hey! I'm Rehaan Malik — I build, innovate, and constantly push myself to learn more.
 
 ### Aspiring Full Stack Developer | JavaScript Enthusiast
 
@@ -60,11 +60,15 @@ Tools & Platforms
 </div>
 
 📫 Let's Connect!
+
 <div align="center">
 
-<a href="https://linkedin.com/in/yourprofile"> <img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-0077B5%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" /> </a> <a href="mailto:youremail@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a>
+<a href="https://linkedin.com/in/yourprofile"> <img src="https://img.shields.io/badge/%20-linkedin-blue?style=for-the-badge&labelColor=eeda04&logo=linkedin" alt="Badge"></a> 
+<a href="mailto:youremail@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a>
+<a href = "https://x.com/exerehaan_"><img src="https://img.shields.io/badge/%20-X-black?style=for-the-badge&labelColor=black&logo=x" alt="Badge"></a>
 
-"The best way to predict the future is to create it."
 
 </div>
+
+
 <!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=exerehaan&show_icons=true&locale=en&layout=compact" alt="exerehaan" /></p> -->
