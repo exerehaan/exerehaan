@@ -47,7 +47,9 @@ Languages
 
 
 ![](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
+
 ![](https://img.shields.io/badge/C%2B%2B-blue?style=for-the-badge&logo=cplusplus)
+
 ![](https://img.shields.io/badge/%20-python-blue?style=for-the-badge&labelColor=eeda04&logo=python)
 
 Tools & Platforms
